@@ -1,2 +1,1 @@
 # ICPProjectBuildingWorkshop
-Kerem Dogan
